@@ -1,4 +1,4 @@
 package oops.inheritance;
 
-public class Bird extends Animal{
+public class Bird extends Animal {
 }

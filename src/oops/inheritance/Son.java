@@ -1,4 +1,4 @@
 package oops.inheritance;
 
-public class Son extends Father{
+public class Son extends Father {
 }

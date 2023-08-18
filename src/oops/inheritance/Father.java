@@ -1,6 +1,6 @@
 package oops.inheritance;
 
-public class Father extends Grandfather{
+public class Father extends Grandfather {
 
     int age = 25;
 
