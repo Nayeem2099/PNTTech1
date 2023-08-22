@@ -2,7 +2,7 @@ package modifiersnonaccess;
 
 public class DriveWay {
 
-    int width;
+    static int width;
     static int length; //=50 bc of the setter
 
     //getter
@@ -14,7 +14,7 @@ public class DriveWay {
         length = myLength;
     }
 
-    public void widthOfDriveway(){
+    public static void widthOfDriveway(){
         System.out.println("width of the driveway is: " + width);
         System.out.println("length of the driveway is: " + length);
 

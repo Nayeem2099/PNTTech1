@@ -3,6 +3,7 @@ package modifiersaccess;
 public class Calculator {
 
     //access modifiers: public, protected, default, private
+    //protected access modifier allows access from the same package and subclasses.
     //properties
     //variables
     int a = 5;

@@ -15,6 +15,7 @@ public class UseDriveWay {
 
         System.out.println("My driveway is: " + myDrive.getLength());
 
+        DriveWay.widthOfDriveway(); //static method so belongs to class not object
 
 
 

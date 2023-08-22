@@ -1,4 +1,4 @@
-package switchStatement;
+package switchandenum;
 
 import java.util.Scanner;
 

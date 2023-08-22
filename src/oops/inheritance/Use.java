@@ -8,14 +8,14 @@ public class Use {
         brooklyn.hasMoney();
 
         Father john = new Father();
-        john.hascar();
+        john.hasCar();
         john.hasMoney();
 
         Mother fatima = new Mother();
         fatima.billionaire();
 
         Son david = new Son();
-        david.hascar();
+        david.hasCar();
         david.hasMoney();
     }
 }
