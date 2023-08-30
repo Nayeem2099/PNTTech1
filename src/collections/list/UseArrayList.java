@@ -13,9 +13,10 @@ public class UseArrayList {
         list.add(6);
         list.add("Cucumber");
         System.out.println(list);
+        System.out.println(list.get(3));
 
 
-        for (int i = 0; i < list.size(); i++) { //use size for lists, length for arrays
+        for (int i = 0; i < list.size(); i++) { //use size for collections, length for arrays
             System.out.println(list.get(i));
         }
         System.out.println(list.get(0)); //how to print indexes

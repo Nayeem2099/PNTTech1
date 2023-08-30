@@ -8,5 +8,6 @@ public class UseDay {
         day.task(Week.SUNDAY); //call enum
 
 
+
     }
 }
